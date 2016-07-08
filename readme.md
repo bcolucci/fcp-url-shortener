@@ -10,9 +10,9 @@ User stories:
 Example usage:
 
     https://fcp-url-shortener.herokuapp.com/new/https%3A%2F%2Fgoogle.com
-    { "original_url":"https://google.com", "short_url":"https://fcp-url-shortener.herokuapp.com/8170" }
+    {"original_url":"https://google.com","short_url":"http://fcp-url-shortener.herokuapp.com/HyDGTXaI"}
 
-    # https://fcp-url-shortener.herokuapp.com/8170 redirects me on https://google.com
+    # https://fcp-url-shortener.herokuapp.com/HyDGTXaI redirects me on https://google.com
 
 ## How to test
 
