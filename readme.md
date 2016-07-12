@@ -17,6 +17,7 @@ Example usage:
 ## How to test
 
     git clone https://github.com/bcolucci/fcp-url-shortener.git \
+      && cd fcp-url-shortener \
       && npm install \
       && npm test \
       && npm start \
